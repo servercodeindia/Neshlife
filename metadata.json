@@ -1,0 +1,6 @@
+{
+  "name": "NESHLIFE Animal Nutrition",
+  "description": "Scientific premium feed store and interactive ration calculator for cattle livestock and aquaculture fish farming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
